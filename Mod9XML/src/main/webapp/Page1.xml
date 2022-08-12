@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='Assignment.css'?>
+
+<musclecars>
+	<title>My favorite musclecar(s) are</title>
+	<car>
+		<car-year>
+			1970
+		</car-year>
+		<make-name>
+			Chevy
+		</make-name>
+		<model-name>
+			Chevelle
+		</model-name>
+	</car>
+	<car>
+		<car-year>
+			1971
+		</car-year>
+		<make-name>
+			Ford
+		</make-name>
+		<model-name>
+			Torino
+		</model-name>
+	</car>
+	<car>
+		<car-year>
+			1969
+		</car-year>
+		<make-name>
+			Plymouth
+		</make-name>
+		<model-name>
+			Roadrunner
+		</model-name>
+	</car>
+	<car>
+		<car-year>
+			1968
+		</car-year>
+		<make-name>
+			Pontiac
+		</make-name>
+		<model-name>
+			GTO
+		</model-name>
+	</car>
+	<car>
+		<car-year>
+			1967
+		</car-year>
+		<make-name>
+			Ford
+		</make-name>
+		<model-name>
+			Mustang Coupe
+		</model-name>
+	</car>
+	<car>
+		<car-year>
+			1967
+		</car-year>
+		<make-name>
+			Chevy
+		</make-name>
+		<model-name>
+			Nova SS
+		</model-name>
+	</car>
+</musclecars>
+	

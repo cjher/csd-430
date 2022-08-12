@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+	<!ELEMENT musclecars (title,car*)>
+	<!ELEMENT title (#PCDATA)>
+	<!ELEMENT car (car-year, make-name, model-name)>
+	<!ELEMENT car-year (#PCDATA)>
+	<!ELEMENT make-name (#PCDATA)>
+	<!ELEMENT model-name (#PCDATA)>

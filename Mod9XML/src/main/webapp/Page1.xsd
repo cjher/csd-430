@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" 
+targetNamespace="http://www.example.org/Page1" 
+xmlns:tns="http://www.example.org/Page1" 
+elementFormDefault="qualified">
+
+<element name="musclecars">
+	<complexType>
+		<sequence>
+			<element name="title" type="string" />
+			<element name="car" >
+				<complexType>
+					<sequence>
+						<element name="car-year" type="positiveInteger" />
+						<element name="make-name" type="string" />
+						<element name="model-name" type="string" />
+					</sequence>
+				</complexType>
+			</element>
+		</sequence>
+	</complexType>
+</element>
+</schema>

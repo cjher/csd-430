@@ -1,0 +1,22 @@
+@charset "ISO-8859-1";
+
+musclecars{
+	display:block;
+	font-size:36pt;
+	color:#ff0000;
+	background-color:rgb(128, 128, 128);
+	text-align:center;
+}
+title{
+	display:block;
+	font-size:24pt;
+	color:#00ff00;
+	text-align:center;
+}
+car{
+	display:block;
+	font-size:24pt;
+	color:#ffff00;
+	background-color:#c0c0c0;
+	text-align:center;
+}
